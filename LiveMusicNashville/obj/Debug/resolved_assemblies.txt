@@ -1,0 +1,2 @@
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicNashville.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/bin/Debug/LiveMusicCore.Droid.dll

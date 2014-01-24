@@ -1,0 +1,3 @@
+LiveMusicNashville.Droid.MainActivity;livemusicnashville.droid.MainActivity
+LiveMusicNashville.Droid.FeedAdapter;livemusicnashville.droid.FeedAdapter
+LiveMusicNashville.Droid.EventDetails;livemusicnashville.droid.EventDetails

@@ -1,0 +1,16 @@
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicNashville.dll.mdb
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicNashville.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicNashville.LiveMusicNashville.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/android/bin/LiveMusicNashville.LiveMusicNashville.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/res/layout/main.xml
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/res/values/strings.xml
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/res/drawable/icon.png
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/res/layout/detail.xml
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/R.cs.flag
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicNashville.LiveMusicNashville-Signed.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/uploadflags.txt
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/LiveMusicNashville.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/obj/Debug/LiveMusicNashville.dll.mdb
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicCore.Droid.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicNashville/bin/Debug/LiveMusicCore.Droid.dll.mdb

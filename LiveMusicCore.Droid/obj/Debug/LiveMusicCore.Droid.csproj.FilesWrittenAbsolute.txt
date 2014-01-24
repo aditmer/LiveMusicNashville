@@ -1,0 +1,12 @@
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/LiveMusicCore.Droid.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/bin/Debug/LiveMusicCore.Droid.dll.mdb
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/bin/Debug/LiveMusicCore.Droid.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/bin/Debug/LiveMusicCore.Droid.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/android/bin/LiveMusicCore.Droid.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/res/values/strings.xml
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/R.cs.flag
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/bin/Debug/LiveMusicCore.Droid-Signed.apk
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/uploadflags.txt
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/LiveMusicCore.Droid.dll
+/Users/andrewditmer/Projects/LiveMusicNashville/LiveMusicCore.Droid/obj/Debug/LiveMusicCore.Droid.dll.mdb

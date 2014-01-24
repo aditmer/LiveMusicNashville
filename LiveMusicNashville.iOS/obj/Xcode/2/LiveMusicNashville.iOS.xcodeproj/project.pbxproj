@@ -1,0 +1,230 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		126C5ED30000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15FD6B710000000000000000 /* UIKit.framework */; };
+		340202060000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37930EA40000000000000000 /* MapKit.framework */; };
+		9356A9E00000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC6773C00000000000000000 /* Foundation.framework */; };
+		3CA04CE70000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 315985000000000000000000 /* CoreGraphics.framework */; };
+		224E21F00000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 25DF2E8E0000000000000000 /* Default-568h@2x.png */; };
+		37818A880000000000000000 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B1297260000000000000000 /* MainStoryboard.storyboard */; };
+		3CC1ABE70000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 52B885000000000000000000 /* AppDelegate.h */; };
+		1AC6427C0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E574F1A0000000000000000 /* AppDelegate.m */; };
+		21B5789C0000000000000000 /* MasterViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 2546853A0000000000000000 /* MasterViewController.h */; };
+		133E63080000000000000000 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16CF6FA60000000000000000 /* MasterViewController.m */; };
+		3324F17A0000000000000000 /* DetailViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 36B5FE180000000000000000 /* DetailViewController.h */; };
+		3DA534380000000000000000 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13640D600000000000000000 /* DetailViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		98334F500000000000000000 /* LiveMusicNashville.iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "LiveMusicNashville.iOS.app"; path = "LiveMusicNashville.iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		15FD6B710000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		37930EA40000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		CC6773C00000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		315985000000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		25DF2E8E0000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		3B1297260000000000000000 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "MainStoryboard.storyboard"; path = "MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		52B885000000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		1E574F1A0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2546853A0000000000000000 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MasterViewController.h"; path = "MasterViewController.h"; sourceTree = "<group>"; };
+		16CF6FA60000000000000000 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MasterViewController.m"; path = "MasterViewController.m"; sourceTree = "<group>"; };
+		36B5FE180000000000000000 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "DetailViewController.h"; path = "DetailViewController.h"; sourceTree = "<group>"; };
+		13640D600000000000000000 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "DetailViewController.m"; path = "DetailViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D53DD760000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				126C5ED30000000000000000 /* UIKit.framework in Frameworks */,
+				340202060000000000000000 /* MapKit.framework in Frameworks */,
+				9356A9E00000000000000000 /* Foundation.framework in Frameworks */,
+				3CA04CE70000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1D6D4F040000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				807035000000000000000000 /* LiveMusicNashville.iOS */,
+				282074DE0000000000000000 /* Frameworks */,
+				12BA292A0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		12BA292A0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				98334F500000000000000000 /* LiveMusicNashville.iOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		282074DE0000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				15FD6B710000000000000000 /* UIKit.framework */,
+				37930EA40000000000000000 /* MapKit.framework */,
+				CC6773C00000000000000000 /* Foundation.framework */,
+				315985000000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		807035000000000000000000 /* LiveMusicNashville.iOS */ = {
+			isa = PBXGroup;
+			children = (
+				52B885000000000000000000 /* AppDelegate.h */,
+				25DF2E8E0000000000000000 /* Default-568h@2x.png */,
+				36B5FE180000000000000000 /* DetailViewController.h */,
+				3B1297260000000000000000 /* MainStoryboard.storyboard */,
+				2546853A0000000000000000 /* MasterViewController.h */,
+				1CA83A590000000000000000 /* Supporting Files */,
+			);
+			name = "LiveMusicNashville.iOS";
+			sourceTree = "<group>";
+		};
+		1CA83A590000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1E574F1A0000000000000000 /* AppDelegate.m */,
+				13640D600000000000000000 /* DetailViewController.m */,
+				16CF6FA60000000000000000 /* MasterViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1C8726500000000000000000 /* LiveMusicNashville.iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3ED00F1B0000000000000000 /* Build configuration list for PBXNativeTarget "LiveMusicNashville.iOS" */;
+			buildPhases = (
+				2B7E9E600000000000000000 /* Sources */,
+				3D53DD760000000000000000 /* Frameworks */,
+				14693DEB0000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "LiveMusicNashville.iOS";
+			productName = "LiveMusicNashville.iOS";
+			productReference = 98334F500000000000000000 /* LiveMusicNashville.iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		37154C8B0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 341CE9410000000000000000 /* Build configuration list for PBXProject "LiveMusicNashville.iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1D6D4F040000000000000000;
+			productRefGroup = 12BA292A0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1C8726500000000000000000 /* LiveMusicNashville.iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		14693DEB0000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				224E21F00000000000000000 /* Default-568h@2x.png in Resources */,
+				37818A880000000000000000 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B7E9E600000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CC1ABE70000000000000000 /* AppDelegate.h in Sources */,
+				1AC6427C0000000000000000 /* AppDelegate.m in Sources */,
+				21B5789C0000000000000000 /* MasterViewController.h in Sources */,
+				133E63080000000000000000 /* MasterViewController.m in Sources */,
+				3324F17A0000000000000000 /* DetailViewController.h in Sources */,
+				3DA534380000000000000000 /* DetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		35991AE60000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		2969C3670000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "LiveMusicNashville.iOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		341CE9410000000000000000 /* Build configuration list for PBXProject "LiveMusicNashville.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35991AE60000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		3ED00F1B0000000000000000 /* Build configuration list for PBXNativeTarget "LiveMusicNashville.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2969C3670000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 37154C8B0000000000000000 /* Project object */;
+}
